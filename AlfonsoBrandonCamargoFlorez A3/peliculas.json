@@ -1,0 +1,41 @@
+[
+  {
+    "nombre": "Harry Potter",
+    "duracion": 120,
+    "copias": 5,
+    "genero": "Fantasia",
+    "codigo": 501,
+    "act1": "Harry",
+    "act2": "Brandon",
+    "act3": "Victoria",
+    "formatop": "Blue Ray",
+    "sinopsis": "Un chico descubre que es mago y es llevado a una escuela de brujeria",
+    "valor": 5000
+  },
+  {
+    "nombre": "Anabel",
+    "duracion": 150,
+    "copias": 3,
+    "genero": "Terror",
+    "codigo": 101,
+    "act1": "Anabel",
+    "act2": "brandon",
+    "act3": "victoria",
+    "formatop": "DVD",
+    "sinopsis": "Una mu\u00f1eca poseida",
+    "valor": 15000
+  },
+  {
+    "nombre": "Rapido y furioso",
+    "duracion": 140,
+    "copias": 6,
+    "genero": "accion",
+    "codigo": 205,
+    "act1": "Vin Diesel",
+    "act2": "Cristian",
+    "act3": "Diana",
+    "formatop": "Blue Ray",
+    "sinopsis": "Un monton de ex combictos demostraran que todo lo pueden lograr con el poder de la familia",
+    "valor": 20000
+  }
+]

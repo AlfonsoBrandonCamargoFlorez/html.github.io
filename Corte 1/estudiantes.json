@@ -1,0 +1,36 @@
+[
+  {
+    "nombre": "Carlos Diaz",
+    "edad": 25,
+    "telefono Celular": 12142154,
+    "estado": "Aprobado",
+    "Ruta": "Ruta Java "
+  },
+  {
+    "nombre": "Silvia Angarita",
+    "edad": 26,
+    "telefono Celular": 12312321,
+    "estado": "Aprobado",
+    "Ruta": "Ruta Java "
+  },
+  {
+    "nombre": "Brandon Camargo",
+    "edad": 30,
+    "telefono Celular": 321321,
+    "estado": "Reprobado"
+  },
+  {
+    "nombre": "Sebastian",
+    "edad": 26,
+    "telefono Celular": 231654897,
+    "estado": "Aprobado",
+    "Ruta": "Ruta NetCore "
+  },
+  {
+    "nombre": "Canilo",
+    "edad": 20,
+    "telefono Celular": 123123,
+    "estado": "Aprobado",
+    "Ruta": "Ruta Java "
+  }
+]

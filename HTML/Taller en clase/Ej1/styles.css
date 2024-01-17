@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#contenedor{
+    height: 800px;
+    border: 10px solid red;
+    margin: 1%;
+    width: 1000px;
+}
+#header{
+    height: 200px;
+    border: 10px solid rgb(25, 0, 255);
+    margin: 1%;
+    
+    
+    }
+#logo{
+    height: 80%;
+    width: 20%;
+    border: 10px solid rgb(0, 255, 34);
+    margin: 1%;
+    float: left;
+    }
+#banner{
+    height: 80%;
+    width: 72%;
+    border: 10px solid rgb(0, 255, 34);
+    margin: 1%;
+    float: right;
+    }
+#nav{
+    height: 10%;
+    width: 96%;
+    border: 10px solid rgb(25, 0, 255);
+    margin: 1%;
+    
+    }
+
+#contenido{
+    height: 53%;
+    margin: 1em;
+}
+#footer{
+    height: 15%;
+    background-color: darkolivegreen;
+    margin: 1em;
+    border-radius: 1em;
+}
+#section{
+    height: 100%;
+    width: 68%;
+    background-color: aquamarine;
+    margin-left: 0.5em;
+    border-radius: 1em;
+    float: left;
+}
+#aside{
+    height: 100%;
+    width: 30%;
+    background-color: burlywood;
+    margin-right: 0.5em;
+    border-radius: 1em;
+    float: right;
+}
+.articulo{
+    width: 96%;
+    height: 20%;
+    background-color: firebrick;
+    margin: 1em;
+    border-radius: 1em;
+}
