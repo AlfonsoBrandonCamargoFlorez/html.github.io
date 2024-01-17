@@ -12,6 +12,7 @@
     height: 200px;
     border: 10px solid rgb(25, 0, 255);
     margin: 1%;
+    display: flex;
     
     
     }
